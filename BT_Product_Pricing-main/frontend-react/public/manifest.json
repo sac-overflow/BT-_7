@@ -1,0 +1,14 @@
+{
+  "name": "Credexa Product Pricing Management",
+  "short_name": "Credexa Pricing",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a2b6b",
+  "theme_color": "#1a2b6b",
+  "icons": [
+    { "src": "/icons/icon-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icons/icon-512x512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
+
+
